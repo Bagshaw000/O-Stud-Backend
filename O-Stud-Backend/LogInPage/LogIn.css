@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap");
+* {
+  border: 0;
+  margin: 0;
+}
+
+.container {
+  height: auto;
+  display: flex;
+}
+img {
+  padding-top: 1%;
+  width: 400px;
+  margin-left: 0px;
+  height: 300px;
+}
+#logo {
+  width: 110px;
+  height: 95px;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+#FMContainer {
+  background-color: rgba(34, 138, 214, 0.5);
+  margin-bottom: 0px;
+  width: 50%;
+  height: 700px;
+  filter: brightness(100%);
+}
+#SMContainer {
+  margin-bottom: 0px;
+  background-color: #f6faff;
+  width: auto;
+  height: 700px;
+  align-items: center;
+  filter: brightness(100%);
+}
+#FCCont {
+  background-color: #f6faff;
+  width: 50%;
+  margin-top: 18%;
+  height: 500px;
+  margin-left: 50%;
+  filter: brightness(100%);
+}
+#SCCont {
+  background-color: rgba(34, 138, 214, 0.5);
+  width: 50%;
+  height: 500px;
+  margin-right: 50%;
+  margin-top: 9%;
+  filter: brightness(100%);
+}
+form {
+  text-align: left;
+}
+.words {
+  margin-left: 22%;
+}
+input {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: auto;
+}
+#submitBtn {
+  padding: 10px 5px 10px 5px;
+  width: 100px;
+  background-color: white;
+  border-radius: 20%;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+}

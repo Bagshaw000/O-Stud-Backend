@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cookie&family=Roboto:wght@400;700&display=swap");
+
+.header {
+  height: 100px;
+}
+body {
+  background-color: white;
+}
+.navbar-nav {
+  margin-left: 800px;
+}
+#NavCont {
+  background-color: white;
+}
+.nav-link {
+  margin-left: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+#Logo {
+  width: 150px;
+  height: 150px;
+  margin-left: 50px;
+}
+#MidCont {
+  background-color: rgba(34, 138, 214, 0.5);
+}
+#CentPic {
+  height: 500px;
+  width: 500px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#BaseDescription {
+  text-align: left;
+}
+#bottom {
+  margin-top: 1px;
+}
+#BottomPic {
+  height: 198px;
+  width: 361px;
+  margin-right: 720px;
+}
+#BottomRow {
+  padding-left: 200px;
+}
